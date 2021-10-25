@@ -1,0 +1,5 @@
+baseURL = "https://tahoku80.github.io/"
+languageCode = "ja"
+title = "tahoku80.github.io"
+theme = "harbor"
+publishDir = "docs"

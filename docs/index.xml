@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>tahoku80.github.io on tahoku80.github.io</title>
+		<link>https://tahoku80.github.io/</link>
+		<description>Recent content in tahoku80.github.io </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>ja</language>
+		
+		<managingEditor>Page(&#34;tahoku80.github.io&#34;)</managingEditor>
+    	
+		<atom:link href="/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
